@@ -714,7 +714,7 @@ input, select, textarea {
 
 	#footer {
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
+		background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), rgba(216, 215, 218, 0.5) 75%);
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		bottom: 0;
@@ -1080,7 +1080,5 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
-
-	
 
 	
