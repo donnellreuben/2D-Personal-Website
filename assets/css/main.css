@@ -1300,7 +1300,7 @@ body {
 	width: 125px;
 	height: 200px;
 	
-	background: url(/assets/music/cover.jpeg);
+	background: url(/assets/css/images/cover3.jpeg);
 	background-position: 0px 0px;
 	
 	top: 50%;
@@ -1320,7 +1320,7 @@ body {
 	width: 125px;
 	height: 200px;
 		
-	background: url(/assets/music/cover.jpeg);
+	background: url(/assets//css/images/cover3.jpeg);
 	background-position: -125px 0px;
 
 	top: 50%;
