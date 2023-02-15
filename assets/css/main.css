@@ -1297,10 +1297,10 @@ body {
 
 	position: absolute;
 	
-	width: 125px;
-	height: 200px;
+	width: 135px;
+	height: 250px;
 	
-	background: url(/assets/css/images/cover3.jpeg);
+	background: url(/assets/music/cover2.jpg);
 	background-position: 0px 0px;
 	
 	top: 50%;
@@ -1317,10 +1317,10 @@ body {
 
 	position: absolute;
 	
-	width: 125px;
-	height: 200px;
+	width: 135px;
+	height: 250px;
 		
-	background: url(/assets//css/images/cover3.jpeg);
+	background: url(/assets/music/cover2.jpg);
 	background-position: -125px 0px;
 
 	top: 50%;
