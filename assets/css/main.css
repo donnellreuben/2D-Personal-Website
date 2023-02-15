@@ -97,9 +97,9 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-
+/*CHANGE COLOR HERE FOR ICONS AND TITLE */
 	body, input, select, textarea {
-		color: #fff;
+		color: #242836;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -224,9 +224,11 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-	/* Set your background with this */
 
-		background: #256bcb url("images/bg9.jpg") bottom left;
+	/* Setting My BACKGROUND with this #256bcb for bg 9 (retro)
+	and #A4CEDC for bg4 (clouds) */
+
+		background: #A4CEDC url("images/bg4.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -1256,7 +1258,7 @@ body {
 
 #player {
 	width: 18px;
-	height: 50px;
+	height: 20px;
 	position: fixed;
 	margin: 0px 0 0 5px;
 	
